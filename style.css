@@ -23,6 +23,7 @@ h1, h2 {
 }
 strong{
 	color: #580BE4;
+	font-weight: bold;
 }
 a{
 	color: #580BE4;
